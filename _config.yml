@@ -27,7 +27,7 @@ url: "https://cyriljl.github.io" # the base hostname & protocol for your site, e
 github_username:  CyrilJl
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
