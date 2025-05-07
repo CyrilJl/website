@@ -8,6 +8,6 @@ layout: home
 Je suis un ingénieur en mathématiques appliquées, intéressé par le machine learning, l'assimilation de données, les séries temporelles, le SIG, et l'inférence causale.
 
 Vous trouverez ici :
-*   [CV](/cv.md)
+*   [CV](/cv/)
 *   [Posts](/_posts/)
 *   [Open Source](/open-source.md)
