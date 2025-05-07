@@ -1,5 +1,3 @@
-# Curriculum
+### Expériences professionnelles
 
-## Expériences professionnelles
-
-## Etudes
+### Etudes
